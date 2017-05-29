@@ -1,4 +1,5 @@
 # Gromov-Compactness-theorem
+### Chapter 2 Proof 1 
 Let $f:X \to Y$ be a bi-Lipschitz map, then by definition $f$ and $f^{-1}$ are both Lipschitz of constant $K$ and $K'$, hence:
 \begin{equation*}
     d_{Y}(f(x_{1}),f(x_{2})) \leq K d_{X}(x_1,x_2)
